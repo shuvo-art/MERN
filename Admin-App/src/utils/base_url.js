@@ -1,1 +1,1 @@
-export const base_url = "https://deploy-mern-api-beryl.vercel.app/";
+export const base_url = "https://mern-backend-api-livid.vercel.app/";
