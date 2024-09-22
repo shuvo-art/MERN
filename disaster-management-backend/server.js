@@ -25,7 +25,7 @@ const app = express();
 // Middleware
 app.use(
   cors({
-    origin: "https://deploy-mern-frontend-rouge.vercel.app", // Allow requests from frontend port
+    origin: "https://mern-frontend-psi-gules.vercel.app", // Allow requests from frontend port
   })
 );
 app.use(express.json());
